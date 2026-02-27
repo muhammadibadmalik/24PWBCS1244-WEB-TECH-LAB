@@ -20,7 +20,7 @@ This project demonstrates foundational web development skills including semantic
 
 ## Live Demo
 You can view the deployed version of this lab here:
-[Insert your GitHub Pages URL here once deployed]
+https://muhammadibadmalik.github.io/24PWBCS1244-WEB-TECH-LAB/
 
 ## Author
 **Muhammad Ibad Malik** 
